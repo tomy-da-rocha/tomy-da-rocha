@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tomy-da-rocha
+- 👀 I’m interested in programming new tools.
+- 🌱 I’m currently learning PHP and JS frameworks.
+- 🐱‍💻 I love C, Java and sometimes make bash scripts for automation.
+- 📫 Contact me!
