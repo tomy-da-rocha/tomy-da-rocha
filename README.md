@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Tomy Da Rocha
 I'm a software engineer with a passion for building robust web applications and SaaS tools. Here’s a bit about me:
-
-- 🔧 Currently working with APIs and software architecture to build scalable, efficient systems.
-- 🚀 Specializing in Django and React for backend and frontend development, along with strong experience in Next.js and PostgreSQL.
-- 🌱 Always exploring new ways to optimize code and enhance user experiences.
-  
-> 📫 Let’s connect! Feel free to reach out if you're interested in collaborating or discussing innovative ideas.
+• 🛡️ SecDevOps Enthusiast: I don't just write code; I craft secure, scalable solutions from the ground up.
+• 🔍 Code Explorer: Libraries and frameworks? I love to peek under the hood and understand the 'how' and 'why'.
+• 🏗️ Architecture Aficionado: Building robust web apps and SaaS tools isn't just a job, it's my passion.
+• 🧠 Continuous Learner: In the ever-evolving tech landscape, I'm always hungry for new challenges and innovations.
